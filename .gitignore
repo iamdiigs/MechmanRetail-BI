@@ -1,0 +1,15 @@
+# Power BI files — may contain embedded data
+*.pbix
+
+# SQL Server backup files
+*.bak
+*.mdf
+*.ldf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+~$*
