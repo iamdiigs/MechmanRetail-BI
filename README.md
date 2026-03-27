@@ -1,6 +1,6 @@
 # MechmanRetail BI Portfolio Project
 
-A four-page retail sales Business Intelligence report built on the Wide World Importers dataset covering 228,265 transactions across May 2017 to October 2020 — $172M revenue, 49.8% average profit margin.
+A four-page retail sales Business Intelligence report covering 228,265 transactions across May 2017 to October 2020 — $172M revenue, 49.8% average profit margin.
 
 ## Live Report
 > Interactive report available on request.
@@ -8,7 +8,7 @@ A four-page retail sales Business Intelligence report built on the Wide World Im
 [View PDF Report](reports/Mechman.pdf)
 
 **Power BI Desktop file available on request.**
-Contact me via [LinkedIn]([your LinkedIn URL here]) to receive the .pbix file directly.
+Contact me via [LinkedIn](https://www.linkedin.com/in/triumphant-adiga-aa297915b) to receive the .pbix file directly.
 
 ## Project Architecture
 
@@ -41,7 +41,7 @@ Contact me via [LinkedIn]([your LinkedIn URL here]) to receive the .pbix file di
 - Inactive relationships activated via USERELATIONSHIP() in Target Revenue measure
 
 ## Dataset
-- Source: Wide World Importers — retail sales dataset
+- Source: Mechman_Retail — retail sales dataset
 - Transactions: 228,265
 - Period: May 2017 to October 2020
 - Revenue: $172M
@@ -82,5 +82,5 @@ SQL Server 2019 · Power BI Desktop · Power Query · DAX · Power BI Service ·
 
 ## Author
 **Adiga Triumphant** — Data Analyst | Power BI Developer
-[LinkedIn](linkedin.com/in/triumphant-adiga-aa297915b)
+[LinkedIn](https://www.linkedin.com/in/triumphant-adiga-aa297915b)
 ```
