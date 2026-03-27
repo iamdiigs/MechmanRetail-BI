@@ -5,7 +5,7 @@ A four-page retail sales Business Intelligence report covering 228,265 transacti
 ## Live Report
 > Interactive report available on request.
 
-[View PDF Report](reports/Mechman.pdf)
+[Download PDF Report](https://github.com/iamdiigs/MechmanRetail-BI/raw/main/reports/Mechman.pdf)
 
 **Power BI Desktop file available on request.**
 Contact me via [LinkedIn](https://www.linkedin.com/in/triumphant-adiga-aa297915b) to receive the .pbix file directly.
